@@ -1,0 +1,8 @@
+streamlit
+pandas
+selenium
+webdriver-manager
+transformers
+torch
+konlpy
+scikit-learn
